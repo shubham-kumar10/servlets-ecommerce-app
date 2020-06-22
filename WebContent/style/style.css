@@ -1,0 +1,140 @@
+/* Add styles for truYum application here */
+body{
+	margin:0;
+	overflow:hidden;
+}
+#truyum-logo{
+	font-size:40px;
+	color:#fff;
+	text-decoration:regular;
+	font-family:Calibri light;
+	align:center;
+	padding:10px;
+	margin-bottom:20px;
+}
+header{
+	height:10%;
+	width:100%;
+	background-color:#0000AA;
+	padding-bottom:10px;
+}
+footer{
+	height:10%;
+	width:100%;
+	background-color:#d3d3d3;
+	position:fixed;
+	bottom:0;
+}
+#logo{
+	height:80%;
+	width:auto;
+	align:center;
+}
+.th_rightaln{
+	text-align:right;
+	width:200;
+	font-size:24px;
+}
+.th_leftaln{
+	text-align:left;
+	width:200;
+	font-size:24px;
+}
+.th_center{
+	text-align:center;
+	width:200;
+	font-size:24px;
+}
+.rightaln{
+	text-align:right;
+	width:200;
+	font-size:20px;
+}
+.leftaln{
+	text-align:left;
+	width:200;
+	font-size:20px;
+}
+.center{
+	text-align:center;
+	width:100;
+	font-size:20px;
+}
+#menu{
+	text-align:left;
+	margin-left:8%;
+	margin-bottom:3%;
+	font-size:40px;
+	font-family:Calibri Light,Calibri;
+	width:100%;
+}
+#menulink{
+	float:right;
+	margin-right:8%;
+	margin-top:1%;
+	margin-bottom:1%;
+	font-size:30px;
+	font-family:Calibri Light,Calibri;
+	color:#ffffff;
+}
+#edit_menu{
+	width:100%;
+	margin-left:7%;
+}
+#namebox{
+	width:60%;
+	margin-left:7%;
+}
+#edit_text{
+	margin-left:7%;
+	margin-top:10px;
+	margin-bottom:0;
+}
+#edit_text_td{
+	margin-top:10px;
+	margin-bottom:0;
+}
+.table1{
+	width:100%;
+	margin-left:4%;
+	margin-right:4%;
+}
+#save-button{
+	font-size:20px;
+	color:white;
+	background-color:#0000AA;
+	border:none;
+	width:100px;
+	height:60px;
+	
+}
+#greentxt{
+	text-align:left;
+	margin-left:8%;
+	margin-bottom:3%;
+	font-weight:bold;
+	font-size:25px;
+	font-family:Calibri Light,Calibri;
+	width:100%;
+	color:#008000;
+}
+table{
+	margin-left:7%;
+	border:8px;
+}
+.menutable{
+	width:90%;
+	font-family:Calibri Light,Calibri;
+	border-spacing:10px;
+	border:1px;
+}
+.edittable{
+	width:90%;
+	font-family:Calibri Light,Calibri;
+	border-spacing:10px;
+	border:1px;
+}
+.chkbox{
+	height:20px;
+	width:20px;
+}
